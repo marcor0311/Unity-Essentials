@@ -18,7 +18,7 @@ GitHub Repository: [Unity Photon Pun 2 Repository](link-to-repo)
 
 This repository provides instructions for the integration of Agora SDK 4 with Unity. In this case it's used to send and receive webcam information in a 
 
-GitHub Repository: [Unity Agora SDK 4 with UI 2D Repository](link-to-repo)
+GitHub Repository: [Unity Agora SDK 4 with UI 2D Repository](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces)
 
 ## Unity Agora SDK 4 for 3D spaces
 
