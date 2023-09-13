@@ -12,7 +12,7 @@ Here, you'll find a collection of libraries that I've implemented for past proje
 
 This repository provides instructions for the integration of Photon PUN 2 with Unity. It's used for multiplayer games and networking features within your Unity projects.
 
-GitHub Repository: [Unity Photon Pun 2 Repository](link-to-repo)
+GitHub Repository: [Unity Photon Pun 2 Repository](https://github.com/marcor0311/unity-photon-pun-2)
 
 ## Unity Agora SDK 4 with UI for 2D spaces
 
