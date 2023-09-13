@@ -24,7 +24,7 @@ GitHub Repository: [Unity Agora SDK 4 with UI 2D Repository](https://github.com/
 
 For projects that require 3D (WorldSpace) audio and video communication, this library provides integration with the Unity Agora SDK 4. It's a great choice for immersive experiences.
 
-GitHub Repository: [Unity Agora SDK 4 3D Repository]((https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces))
+GitHub Repository: [Unity Agora SDK 4 3D Repository](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces)
 
 ---
 
