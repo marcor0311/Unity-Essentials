@@ -29,4 +29,4 @@ GitHub Repository: [Unity Agora SDK 4 3D Repository](https://github.com/marcor03
 ---
 
 Feel free to explore and use these libraries in your Unity projects :)
-If you have any questions contact me on telegram @marcor0411
+If you have any questions contact me
